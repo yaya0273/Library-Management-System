@@ -7,7 +7,7 @@ from sqlalchemy import or_
 from datetime import date,timedelta
 
 app=Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///C:/Users/yayar/Desktop/Documents/IITM/MAD I Project/Project/Code/database.sqlite3"
+app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///database.sqlite3"
 db=SQLAlchemy()
 db.init_app(app)
 app.app_context().push()
