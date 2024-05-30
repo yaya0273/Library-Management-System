@@ -3,15 +3,15 @@
 Libraries and Frameworks
 
 • Python Libraries
-o flask
-o flask_sqlalchemy
-o datetime
-• Database
-o SQLite3
-• Frontend
-o HTML5
-o JavaScript
-o Bootstrap
+  o flask
+  o flask_sqlalchemy
+  o datetime
+  • Database
+  o SQLite3
+  • Frontend
+  o HTML5
+  o JavaScript
+  o Bootstrap
 
 Database Model
 
@@ -48,19 +48,19 @@ DOR TEXT
 Main Features
 
 • Librarian
-o Login with Admin Privileges
-o View, Add, Edit and Delete Sections
-o View, Add, Edit and Delete Books
-o Accept and Decline Requests
-o View and Revoke Issued Books
-o Filter Option
+  o Login with Admin Privileges
+  o View, Add, Edit and Delete Sections
+  o View, Add, Edit and Delete Books
+  o Accept and Decline Requests
+  o View and Revoke Issued Books
+  o Filter Option
 
 • User
-o Register and Login
-o View Current, Completed and Requested Books
-o View all available books
-o Request, Read and Return Books
-o Filter Option
+  o Register and Login
+  o View Current, Completed and Requested Books
+  o View all available books
+  o Request, Read and Return Books
+  o Filter Option
 
 Video Link: https://drive.google.com/file/d/1d5b7voPK14ATOqKm6-
 h5cTUE4fKJpFFQ/view?usp=sharing
